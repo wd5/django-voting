@@ -1,3 +1,4 @@
+from setuptools import setup, find_packages
 from distutils.core import setup
 from distutils.command.install import INSTALL_SCHEMES
 
